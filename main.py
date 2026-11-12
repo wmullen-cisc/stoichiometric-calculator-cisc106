@@ -9,7 +9,7 @@ set_website_title("Stoichiometric Calculator")
 set_website_framed(False)
 set_site_information(author='Will Mullen',
                      description='Stoichiometric Calculator: Allows the user to balance a chemical equation and calculate expected yield.',
-                     sources= 'https://pubchem.ncbi.nlm.nih.gov/periodic-table/atomic-mass. Accessed 12 November, 2026.',
+                     sources= 'https://pubchem.ncbi.nlm.nih.gov/periodic-table/atomic-mass',
                      planning= ['CS1 Final Project 0_ Pick a Problem.pdf','CS1 Final Project_1_Design = Will Mullen.pdf'],
                      links= '',
                      server=None
