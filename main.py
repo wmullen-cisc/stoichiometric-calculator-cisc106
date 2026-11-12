@@ -7,6 +7,13 @@ from dataclasses import dataclass
 hide_debug_information()
 set_website_title("Stoichiometric Calculator")
 set_website_framed(False)
+set_site_information(author='Will Mullen',
+                     description='Stoichiometric Calculator: Allows the user to balance a chemical equation and calculate expected yield.',
+                     sources= 'https://pubchem.ncbi.nlm.nih.gov/periodic-table/atomic-mass. Accessed 12 November, 2026.',
+                     planning= '',
+                     links= '',
+                     server=None
+                    )
 
 
 
